@@ -8,7 +8,7 @@ Para utilizar o JUnit conforme esse material, vamos fazer uso de uma dependênci
 
 No site do mvnrepository(https://mvnrepository.com/)  podemos ter acesso a dependência necessária. Para isso basta buscar por JUnit Engine
 
-O projeto aqui apresentado trata-se de um projeto Java em Maven. E aplicamos a versão 5.8.0 do JUnit Engine.
+O projeto aqui apresentado trata-se de um projeto Java em Maven. E aplicamos a versão 5.8.0 do JUnit Engine. Esse projeto também não possui uma aplicação real sendo testada, para esse momento foram criadas apenas alguns métodos em um objeto para teste simplificado, ainda assim criamos uma estrutura Springboot, pois a ideia é ir desenvolvendo essa aplicação até que a mesma se torne uma api rest totalmente testável e aplicável e próxima ao que é praticado no mercado de trabalho.
 
 Maven:
 
